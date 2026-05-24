@@ -1,0 +1,7 @@
+flet==0.28.3
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+python-dotenv
+pydantic
